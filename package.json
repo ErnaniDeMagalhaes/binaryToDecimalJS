@@ -1,0 +1,11 @@
+{
+  "name": "binario_a_decimal",
+  "version": "1.0.0",
+  "description": "conversor de binario a decimal",
+  "main": "index.js",
+  "scripts": {
+    "index": "node src/index.js"
+  },
+  "author": "Ernani De Magalhaes",
+  "license": "MIT"
+}
